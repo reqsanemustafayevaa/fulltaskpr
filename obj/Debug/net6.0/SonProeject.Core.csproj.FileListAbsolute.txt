@@ -1,0 +1,12 @@
+C:\Users\User\Masaüstü\SonProeject.Core\bin\Debug\net6.0\SonProeject.Core.deps.json
+C:\Users\User\Masaüstü\SonProeject.Core\bin\Debug\net6.0\SonProeject.Core.dll
+C:\Users\User\Masaüstü\SonProeject.Core\bin\Debug\net6.0\SonProeject.Core.pdb
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\SonProeject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\SonProeject.Core.AssemblyInfoInputs.cache
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\SonProeject.Core.AssemblyInfo.cs
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\SonProeject.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\SonProeject.Core.dll
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\refint\SonProeject.Core.dll
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\SonProeject.Core.pdb
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\ref\SonProeject.Core.dll
+C:\Users\User\Masaüstü\SonProeject.Core\obj\Debug\net6.0\SonProeject.Core.csproj.AssemblyReference.cache
